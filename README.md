@@ -3,27 +3,16 @@
   <h3>Hi there, I'm Haiyang Wu!</h3>
   <p>Mathematics-Statistics Student @ University of Connecticut (Dec 2025)</p>
   <p><em>Passionate about Data Science, and honing my skills as a Full Stack Developer to turn insights into applications.</em></p>
-</div>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=haiyang5535&show_icons=true&theme=react&hide_border=true&rank_icon=github" alt="Haiyang Wu's GitHub Stats">
-  </a>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=haiyang5535&theme=react&hide_border=true" alt="Haiyang Wu's GitHub Streak">
-  </a>
-</p>
+  <p>
+    <a href="https://www.linkedin.com/in/haiyang-wu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:guda5535@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://github.com/haiyang5535" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  </p>
 
-<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haiyang5535&layout=compact&theme=react&hide_border=true&langs_count=8" alt="Haiyang Wu's Top Languages">
   </a>
-</p>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/haiyang-wu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:guda5535@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/haiyang5535" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </div>
 
 ---
