@@ -15,9 +15,9 @@ I'm a Mathematics-Statistics student at the University of Connecticut (graduatin
 ## Featured Projects
 
 * **Pacific Palisades Wildfire Spread Prediction:**
-    * Analyzed wildfire incident data (including containment percentage and personnel deployed [cite: 2, 4]) from a 5-week incident [cite: 3] to forecast the eventual total acres burned.
-    * Developed a regression model, with data preparation and analysis performed in R[cite: 6], to predict the final fire size using mid-incident reports[cite: 5].
-    * The model's goal is to help fire managers efficiently allocate resources by providing early estimates of the total land at risk[cite: 4, 5].
+    * Analyzed wildfire incident data (including containment percentage and personnel deployed) from a 5-week incident to forecast the eventual total acres burned.
+    * Developed a regression model, with data preparation and analysis performed in R, to predict the final fire size using mid-incident reports.
+    * The model's goal is to help fire managers efficiently allocate resources by providing early estimates of the total land at risk.
 * **Data Collection, Manipulation, and Visualization Tool:** Built a tool to scrape 1,000+ data points using BeautifulSoup and Requests, clean it with Pandas, and create interactive visualizations.
 
 ---
