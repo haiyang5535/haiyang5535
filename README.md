@@ -4,6 +4,7 @@
   <p>Mathematics-Statistics Student @ University of Connecticut (Dec 2025)</p>
   <p><em>Passionate about Data Science, and honing my skills as a Full Stack Developer to turn insights into applications.</em></p>
 
+
   <p>
     <a href="https://www.linkedin.com/in/haiyang-wu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="mailto:guda5535@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
